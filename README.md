@@ -1,4 +1,4 @@
-##🎬 Overlook App
+## 🍿  Movie App:
 
 ## 📦 Установка:
 

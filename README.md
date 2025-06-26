@@ -1,4 +1,4 @@
-## 🎬Overlook App
+##🎬 Overlook App
 
 ## 📦 Установка:
 
@@ -24,7 +24,7 @@ npm install
 npm run dev
 ```
 
-4.Создайте файл .env.local на основе .env.example в корне проекта (movie-app)
+4. Создайте файл .env.local на основе .env.example в корне проекта (movie-app)
 
 5. Получите TMDB API ключ:
 👉 [https://www.themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
